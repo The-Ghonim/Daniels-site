@@ -3,6 +3,8 @@
 ## 📝 Project Description
 This is an **HTML, CSS, and Bootstrap** project designed to test my front-end development skills. It features a **personal portfolio template** with sections such as **Home, About, Services, Portfolio, Clients, Team, and Contact**.
 
+The original project was created by **Abdo gHonim**. You can visit the original project [here](https://github.com/The-Ghonim/Daniels-site.git).
+
 ## 🚀 Technologies Used
 - **HTML5** - For structuring web pages  
 - **CSS3** - For styling and layout  
@@ -26,15 +28,18 @@ Run a Local Server (Optional)
 If you want to run the project on a local server, use Live Server in VS Code or run:
 
 bash
-Copy code
+Copy
+Edit
 npx http-server .
 🌟 Features
 Fully responsive design
 Smooth animations & transitions
 Interactive navigation menu
 Clean and structured code
-📷 Project Screenshot
 
+
+📷 Project Screenshot
+![Landing Page](https://s.tmimgcdn.com/scr/1200x627/79800/edrea-personal-portfolio-joomla-5-template_79875-2-original.png)
 
 📬 Contact
 For any inquiries, feel free to reach out:
@@ -42,9 +47,5 @@ For any inquiries, feel free to reach out:
 📧 Email: thegonim@zohomail.com
 🔗 LinkedIn: theghonim
 ⭐ If you like this project, don't forget to star the repository!
-
-
-
-
 
 
